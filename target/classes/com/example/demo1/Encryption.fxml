@@ -25,7 +25,7 @@
     <center>
         <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
             <children>
-                <HBox alignment="CENTERdsfds" prefHeight="100.0" prefWidth="200.0">
+                <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
                     <children>
                         <RadioButton selected="true" fx:id="radio_des" contentDisplay="CENTER" mnemonicParsing="false" onMouseClicked="#radio_des" text="DES" textFill="BLACK">
                             <font>
